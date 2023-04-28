@@ -7,3 +7,4 @@
 
 4-Sayı Tahmin Uygulaması
  
+5-RecyclerView ve CardView kullanımı için örnek bir film uygulaması
